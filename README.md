@@ -1,4 +1,4 @@
-# Werkzeuge_fuer_Masterarbeit
+# ellipse-generator
 Scripts and tools written for my Masterarbeit
 
 Generate images with ellipsen under different conditions for simulating the image of the droplet obtained in the experiment.
