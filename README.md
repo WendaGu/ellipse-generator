@@ -1,5 +1,5 @@
 # ellipse-generator
-Scripts and tools written for my Masterarbeit.
+Scripts and tools written for generating ellipse.
 
 Generate images with ellipse under different conditions for simulating the image of the droplet obtained in the experiment.
 
